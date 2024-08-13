@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530234958765",
+    "firebase_url": "https://joniva-spa-default-rtdb.firebaseio.com",
+    "project_id": "joniva-spa",
+    "storage_bucket": "joniva-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530234958765:android:9ef868d50070d1586cb724",
+        "android_client_info": {
+          "package_name": "jonivaspa.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3bkPN10IgYKE1e7obGEdhyppHtuMBOo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
